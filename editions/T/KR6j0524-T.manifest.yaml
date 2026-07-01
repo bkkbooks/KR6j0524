@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0524/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0524/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 般若守護十六善神王形體
+  identifiers:
+    krp: KR6j0524
+    cbeta: T21n1293
+    cbeta_old_id: T21n1293
+    authorityid: CA0000177
+    json_key: T1293
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1293.xml
+    old_id: T21n1293
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0524_000-T.yaml, hash: 'sha256:6bd8ffea7de67e18d9620b65ca97681fd4110ae60e1f5e3d917b717c2b2e25b0'}
+  - {seq: 1, filename: KR6j0524_001-T.yaml, hash: 'sha256:e8448d1f92ba0cbc9ed70413e1f4df5c03422401c1ada0c26c12ae3cae33c5d8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0524_000-T.markers.yaml, hash: 'sha256:fadcfeeab39230fad315d44066684be1b4eaafc4c206a4cb4b0ec5b6dbbc175f'}
+  - {seq: 1, role: markers, filename: assets/KR6j0524_001-T.markers.yaml, hash: 'sha256:562e4ec288916113ae347a6a3eb94476969d1289b28be0dbb0ef0958f4effb81'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0524_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 889
+  label: 般若守護十六善神王形體
+  type: juan
+  level: 1
+hash: sha256:260efe7a9ad4391610a708c50a6f89776a15881cf39d221e1e6f7ffc79ad8b3e

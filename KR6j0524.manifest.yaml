@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6j0524/v1
+canonical_location: https://kanripo.org/bkk/KR6j0524/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 般若守護十六善神王形體
+  identifiers:
+    alt_id:
+    - T21n1293
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1293.xml
+    old_id: T21n1293
+  edition:
+    short: bkk
+editions:
+- short: 原
+  label: 原
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0524_000.yaml, hash: 'sha256:6bd8ffea7de67e18d9620b65ca97681fd4110ae60e1f5e3d917b717c2b2e25b0'}
+  - {seq: 1, filename: KR6j0524_001.yaml, hash: 'sha256:86b26308afebb0b396e7b568ccca4dc46078c9448fcd148fe7c1c744bd86fd2d'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0524_001.markers.yaml, hash: 'sha256:1b02d0722994d634f10e12b64e5c902df1f8f84731f89393ab3f1776c9122b25'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0524_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 889
+  label: 般若守護十六善神王形體
+  type: juan
+  level: 1
+hash: sha256:ff61c0cc6c87d06aeb47f3753f2a1dc883e4bf50efc4737cb8db7af0e7b93503
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

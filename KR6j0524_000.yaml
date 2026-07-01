@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0524/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 般若守護十六善神王形體
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1293.xml
+    old_id: T21n1293
+hash: sha256:6bd8ffea7de67e18d9620b65ca97681fd4110ae60e1f5e3d917b717c2b2e25b0
