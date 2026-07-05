@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0524_000.yaml, hash: 'sha256:6bd8ffea7de67e18d9620b65ca97681fd4110ae60e1f5e3d917b717c2b2e25b0'}
-  - {seq: 1, filename: KR6j0524_001.yaml, hash: 'sha256:86b26308afebb0b396e7b568ccca4dc46078c9448fcd148fe7c1c744bd86fd2d'}
+  - {seq: 1, filename: KR6j0524_001.yaml, hash: 'sha256:e8448d1f92ba0cbc9ed70413e1f4df5c03422401c1ada0c26c12ae3cae33c5d8'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0524_001.markers.yaml, hash: 'sha256:1b02d0722994d634f10e12b64e5c902df1f8f84731f89393ab3f1776c9122b25'}
+  - {seq: 0, role: markers, filename: assets/KR6j0524_000.markers.yaml, hash: 'sha256:109c382bcb42d4b6e0866ff387604cea6723f367dfd6004d29e724740f9bbc6f'}
+  - {seq: 1, role: markers, filename: assets/KR6j0524_001.markers.yaml, hash: 'sha256:5a5ca43e067b836358cdbba52240dc7b2178d58ea602147fc4612e70e33a60f5'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 般若守護十六善神王形體
   type: juan
   level: 1
-hash: sha256:ff61c0cc6c87d06aeb47f3753f2a1dc883e4bf50efc4737cb8db7af0e7b93503
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:771770e99c8da344beae116360d21bafe23621bc2ccc563c8d05787a00ecf1ce
