@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0524/v1
 canonical_location: https://kanripo.org/bkk/KR6j0524/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 般若守護十六善神王形體
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0524_000.yaml, hash: 'sha256:6bd8ffea7de67e18d9620b65ca97681fd4110ae60e1f5e3d917b717c2b2e25b0'}
-  - {seq: 1, filename: KR6j0524_001.yaml, hash: 'sha256:e8448d1f92ba0cbc9ed70413e1f4df5c03422401c1ada0c26c12ae3cae33c5d8'}
+  - {seq: 1, filename: KR6j0524_001.yaml, hash: 'sha256:96514fb77c296c7e41805a68e77a35ed147ca467d01d0dd02b8760cb0b9690c9'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0524_000.markers.yaml, hash: 'sha256:109c382bcb42d4b6e0866ff387604cea6723f367dfd6004d29e724740f9bbc6f'}
-  - {seq: 1, role: markers, filename: assets/KR6j0524_001.markers.yaml, hash: 'sha256:5a5ca43e067b836358cdbba52240dc7b2178d58ea602147fc4612e70e33a60f5'}
+  - {seq: 1, role: markers, filename: assets/KR6j0524_001.markers.yaml, hash: 'sha256:8102d31c809048a8ee627e88930839b21bcb264045f3475415531ce8b3821b93'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 般若守護十六善神王形體
   type: juan
   level: 1
-hash: sha256:771770e99c8da344beae116360d21bafe23621bc2ccc563c8d05787a00ecf1ce
+hash: sha256:371e73890f70037f68b2ba3158f9f051bcfdbf6b8c0edd272874fee7080ed623
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
